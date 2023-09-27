@@ -1,0 +1,21 @@
+li.todo-item{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    margin: 2% 0;
+    cursor: pointer;
+}
+
+.completed{
+    text-decoration: line-through;
+    background-color: #364750;
+    width:fit-content;
+    border-radius: 15%;
+}
+
+.FontAwesomeIcon{
+    display: flex;
+    justify-content: flex-end;
+}
+
+

@@ -1,0 +1,9 @@
+.header h2{
+  margin: 3% 0;
+}
+
+.header .clock {
+    display: flex;
+    justify-content: space-between;
+
+}

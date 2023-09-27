@@ -1,0 +1,13 @@
+.input-wrapper{
+    padding: 2% 0;
+}
+
+.input-wrapper input{
+height: 1.5rem;
+display:inline-block;
+}
+
+.input-wrapper .btn{
+height: 1.5rem;
+display:inline-block;
+}

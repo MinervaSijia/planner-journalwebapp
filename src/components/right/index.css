@@ -1,0 +1,10 @@
+.Right{
+border-radius: 15px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.Right>*{
+    margin: 4%;
+}
